@@ -145,11 +145,6 @@ If you find a bug or want a new feature, open an issue or submit a PR.
 
 ***
 
-## License
-
-Distributed under MIT License (or as specified in the repo).
-
-***
 
 ## Credits
 
