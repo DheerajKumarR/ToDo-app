@@ -153,6 +153,17 @@ For educational demonstration of Java-JDBC CRUD operations.
 
 ***
 
+## Snapshots
+
+<img width="1487" height="853" alt="image" src="https://github.com/user-attachments/assets/fd4422c6-8512-4ccc-9b86-8bdb1481373d" />
+
+<img width="1442" height="876" alt="image" src="https://github.com/user-attachments/assets/0f01882b-b15a-41a0-9b52-a244261efbff" />
+
+<img width="1531" height="876" alt="image" src="https://github.com/user-attachments/assets/d161fc5d-bb89-44eb-bc6e-b5ef436cfe20" />
+
+***
+
+
 Let me know if you want a version with markdown badges, screenshots, or sample data!
 
 [1](https://github.com/DheerajKumarR/ToDo-app)
